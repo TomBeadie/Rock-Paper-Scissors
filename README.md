@@ -2,7 +2,7 @@
 ----
 [Play]()
 
-Fastest and fairest way to decide who get's the last slice of pizza.🍕
+Fastest and most fair way to decide who get's the last slice of pizza.🍕
 
 # Wireframes and Planning
 ----
